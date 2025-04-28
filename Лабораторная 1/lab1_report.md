@@ -1,3 +1,20 @@
+University: ITMO University
+
+Faculty: FTMI
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024/2025
+
+Group: UVB
+
+Author: Silinik Elizaveta Sergeevna
+
+Lab: Lab1
+
+Date of create: 26.04.2025
+
+Date of finished: 26.04.2025
 1. В разделе IAM & Admin на вкладке «Сервисные аккаунты» создан новый сервисный аккаунт
 ![image](https://github.com/user-attachments/assets/d272b5ef-8739-4033-b300-7cd87f2a19e1)
 2. Выбрана роль администратора хранилища
