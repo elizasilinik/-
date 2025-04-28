@@ -1,3 +1,20 @@
+University: ITMO University
+
+Faculty: FTMI
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024/2025
+
+Group: UVB
+
+Author: Silinik Elizaveta Sergeevna
+
+Lab: Lab1
+
+Date of create: 26.04.2025
+
+Date of finished: 26.04.2025
 1. Заходим в Cloud Run на Google Cloud Platform и нажимаем на Deploy
 ![image](https://github.com/user-attachments/assets/cac90f8a-8c3c-48bc-97c9-ad393bca3467)
 2. Используем существующий сервис hello и выставим минимальные настройки сервиса. Установим 8080 порт. Даем доступ неавторизованным пользователям.
