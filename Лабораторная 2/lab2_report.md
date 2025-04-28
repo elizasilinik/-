@@ -10,7 +10,7 @@ Group: UVB
 
 Author: Silinik Elizaveta Sergeevna
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 26.04.2025
 
