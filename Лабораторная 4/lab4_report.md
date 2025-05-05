@@ -66,6 +66,7 @@ Date of finished: 05.05.2025
 - Замена Vertex AI → Gemini Nano: для сложных запросов ($0.00025/1K токенов).
 - Замена Firebase Hosting → Cloud CDN: уменьшает задержку для глобальной аудитории
 - Замена Cloud SQL → Cloud SQL (HA): отказоустойчивость при росте нагрузки
-![image](https://github.com/user-attachments/assets/01478767-baf7-4079-9775-57cba96b6453)
+- Замена Cloud Run → GKE: 
+![image](https://github.com/user-attachments/assets/f935f407-88fe-4813-9515-3660007fc7c7)
 ![image](https://github.com/user-attachments/assets/8e0e9ad3-1fa8-4d09-b9c5-2fe1810f11a4)
 Итого: $490.50
